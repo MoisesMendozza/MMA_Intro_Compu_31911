@@ -1,0 +1,2 @@
+C:\Users\moise\source\repos\ASCIIProgram(Translator)\Debug\ASCIIProgram(Translator).exe
+C:\Users\moise\Documents\C++ VS\ASCIIProgram(Translator)\Debug\ASCIIProgram(Translator).exe
